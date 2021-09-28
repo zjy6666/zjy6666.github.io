@@ -43,12 +43,3 @@ body {
 .bn_box {
 	display:none
 }
-@media all and (orientation : portrait) {
-/*竖屏*/
-
-}
-
-@media all and (orientation : landscape) {
-/*横屏*/
-
-}
